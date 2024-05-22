@@ -7,46 +7,46 @@ Indicated by checkbox under “yes” or “no” to answer the question: *Does 
 
 **Controls assessment checklist**
 
-|`  `**Yes**|`    `**No**|**Control**|
+|**Yes**|**No**|**Control**|
 | -: | :-: | :- |
-|||Least Privilege|
-|||Disaster recovery plans|
-|||Password policies|
-|||Separation of duties|
-|||Firewall|
-|||Intrusion detection system (IDS)|
-|||Backups|
-|||Antivirus software|
-|||Manual monitoring, maintenance, and intervention for legacy systems|
-|||Encryption|
-|||Password management system|
-|||Locks (offices, storefront, warehouse)|
-|||Closed-circuit television (CCTV) surveillance|
-|||Fire detection/prevention (fire alarm, sprinkler system, etc.)|
+||&check;|Least Privilege|
+||&check;|Disaster recovery plans|
+||&check;|Password policies|
+||&check;|Separation of duties|
+|&check;||Firewall|
+||&check;|Intrusion detection system (IDS)|
+||&check;|Backups|
+|&check;||Antivirus software|
+|&check;||Manual monitoring, maintenance, and intervention for legacy systems|
+||&check;|Encryption|
+||&check;|Password management system|
+|&check;||Locks (offices, storefront, warehouse)|
+|&check;||Closed-circuit television (CCTV) surveillance|
+|&check;||Fire detection/prevention (fire alarm, sprinkler system, etc.)|
 
 
 **Compliance checklist**
 
 Payment Card Industry Data Security Standard (PCI DSS)
 
-|**Yes**|`    `**No**|**Best practice**|
+|**Yes**|**No**|**Best practice**|
 | -: | :-: | :- |
-|||Only authorized users have access to customers’ credit card information. |
-|||Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.|
-|||Implement data encryption procedures to better secure credit card transaction touchpoints and data. |
-|||Adopt secure password management policies.|
+||&check;|Only authorized users have access to customers’ credit card information. |
+||&check;|Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment.|
+||&check;|Implement data encryption procedures to better secure credit card transaction touchpoints and data. |
+||&check;|Adopt secure password management policies.|
 
 
 
 
 General Data Protection Regulation (GDPR)
 
-|**Yes**|`    `**No**|**Best practice**|
+|**Yes**|**No**|**Best practice**|
 | -: | :-: | :- |
-|||E.U. customers’ data is kept private/secured.|
-|||There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.|
-|||Ensure data is properly classified and inventoried.|
-|||Enforce privacy policies, procedures, and processes to properly document and maintain data.|
+||&check;|E.U. customers’ data is kept private/secured.|
+|&check;||There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.|
+||&check;|Ensure data is properly classified and inventoried.|
+|&check;||Enforce privacy policies, procedures, and processes to properly document and maintain data.|
 
 
 
@@ -58,12 +58,12 @@ General Data Protection Regulation (GDPR)
 
 System and Organizations Controls (SOC type 1, SOC type 2) 
 
-|**Yes**|`    `**No**|**Best practice**|
+|**Yes**|**No**|**Best practice**|
 | -: | :-: | :- |
-|||User access policies are established.|
-|||Sensitive data (PII/SPII) is confidential/private.|
-|||Data integrity ensures the data is consistent, complete, accurate, and has been validated.|
-|||Data is available to individuals authorized to access it.|
+||&check;|User access policies are established.|
+||&check;|Sensitive data (PII/SPII) is confidential/private.|
+|&check;||Data integrity ensures the data is consistent, complete, accurate, and has been validated.|
+||&check;|Data is available to individuals authorized to access it.|
 
 -----
 
