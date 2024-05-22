@@ -13,6 +13,7 @@ My journey in network security has led me to develop a passion to further develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Security Audit                                | <a href="https://github.com/d-pakb/Security-Audit-Botium-Toys">Botium Toys</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
