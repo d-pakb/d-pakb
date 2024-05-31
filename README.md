@@ -9,17 +9,16 @@ I am an experienced security engineer with a profound interest in technology and
 My journey in network security has led me to develop a passion to further develop my skills in cybersecurity, and I am now eager to transition into this domain, specifically aiming to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Audit                                | <a href="https://github.com/d-pakb/d-pakb/tree/0dd8cad4febf24ce1bc3c4eae42f74a61331f611/Projects/Security-Audit">Botium Toys</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skills                              |                                      |
+|-------------------------------------|--------------------------------------|
+| Incident Response                   |    Threat Hunting                    |
+| SIEM                                |    Security Operations               |
+| Network Security                    |    Firewalls                         |
+| Endpoint Security                   |    Wireshark                         |
+| Linux                               |    Threat Detection                  |
+| ISO 27001                           |    Email Secuirty                    |
+
 
 ## Tools
 
@@ -44,13 +43,12 @@ My journey in network security has led me to develop a passion to further develo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20CCNP-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20CCNA-005073?&style=for-the-badge&logo=cisco&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/d-pakb/d-pakb/tree/0dd8cad4febf24ce1bc3c4eae42f74a61331f611/Projects/Security-Audit">Security Audit - Botium Toys</a>
+- <a href="https://google.com">Network Traffic Monitoring and Attack Detection</a>
